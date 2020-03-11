@@ -1,6 +1,8 @@
 (ns advent-of-code-with-clojure-2018.day01
   (:require [clojure.string :as str]))
 
+;; https://adventofcode.com/2018/day/1
+
 (def input (slurp "./resources/input/day01.txt"))
 
 (def parsed-input
